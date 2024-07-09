@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahriar Arafat</h1>
-<h3 align="center">Student & Full Stack Developer</h3>
+<h3 align="center">Student & Fornt End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriararafat&label=Profile%20views&color=0e75b6&style=flat" alt="shahriararafat" /> </p>
 
