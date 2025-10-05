@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **diploma in computer science and technology**
 
-- 👨‍💻 All of my projects are available at [shahriararafat.ninja](shahriararafat.ninja)
+- 👨‍💻 All of my projects are available at [shahriararafat.ninja](shahriararafat.dev)
 
 - 📫 How to reach me **arafatshahriar98@gmail.com**
 
